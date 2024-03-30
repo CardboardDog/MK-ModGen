@@ -1,0 +1,34 @@
+{
+    "export":"MarioKartWiiBoosterPack",
+    "region":"E",
+    "tracks":{
+        "dino_dino_jungle":{"slot":0,"music":0},
+        "cheep_cheep_beach":{"slot":1,"music":0},
+        "yoshi_valley":{"slot":2,"music":0},
+        "airship_fortress":{"slot":3,"music":0}
+    },
+    "names":{
+        "tracks":{
+            "Luigi Circuit":"Dino Dino Jungle [GCN]",
+            "Moo Moo Meadows":"Cheep-Cheep Island [GBA]",
+            "Mushroom Gorge":"Yoshi Valley [N64]",
+            "Toad's Factory":"Airship Fortress [DS]"
+        },
+        "players":{
+            "Mario":"Metal Mario"
+        }
+    },
+    "karts":[
+        "MetalMario"
+    ],
+    "UI":{
+        "minimap":{
+            "MiniMapMar":"Mario"
+        },
+        "players":{
+            "MarIcon":"Mario"
+        },
+        "preview":{
+        }
+    }
+}

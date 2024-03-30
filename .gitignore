@@ -1,0 +1,13 @@
+bin/*.exe
+bin/*.dll
+bin/*.sh
+bin/*.txt
+bin/*.bat
+lecode/lecode.bin
+bin/windows-sendto
+MarioKartWii.iso
+Dumped
+rename
+menu
+mod/*/*
+*.iso
