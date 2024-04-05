@@ -3,6 +3,9 @@ bin/*.dll
 bin/*.sh
 bin/*.txt
 bin/*.bat
+bin/*.py
+bin/*.pyd
+bin/
 lecode/lecode.bin
 bin/windows-sendto
 MarioKartWii.iso
